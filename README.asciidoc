@@ -1,0 +1,14 @@
+A gradle-eclipse project to ease producing SmartGWT reproducible test cases.
+
+It uses gradle as a build automation tool integrated with the IDE. Hence you need to 
+install the great gradle eclipse tooling integration available as a plugin for http://www.springsource.org/downloads/sts-ggts[SpringSource Tool Suite].
+
+Credits
+-------
+Many thanks to:
+
+* The http://code.google.com/p/smartgwt/[SmartGWT project]
+
+* The http://gradle.org/[gradle project]
+
+* The https://github.com/SpringSource/eclipse-integration-gradle[Eclipse-Integration-Gradle project]
