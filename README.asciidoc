@@ -1,15 +1,26 @@
-An Eclipse skeleton project aiming to speed up the production of SmartGWT reproducible test cases.
+An Gradle-Eclipse skeleton project aiming to speed up the production of SmartGWT reproducible test cases.
 
-It uses Gradle as a build automation tool integrated with the IDE. Hence you need to 
-install the great Gradle Eclipse tooling integration. 
+It uses Gradle as a build automation tool integrated with the IDE. Hence if you want to use the IDE you need to 
+install the great Gradle Eclipse tooling integration. You can still use only Gradle using its GUI or from command line.
 
 How To
 -------
+There are two alternative ways to use this project: from IDE or from CLI.
+
+Eclipse/STS
+~~~~~~~~~~~
 . Install the Eclipse/http://www.springsource.org/downloads/sts-ggts[STS] Gradle tooling support
 . Import this skeleton project from git
 . Refresh gradle dependencies
 . Edit gwt sources under the +src/main/java+ folder
 . Launch the GWT Dev Mode using the _.launch_ script on the project root
+
+Gradle
+~~~~~~
+* invoke +./gradlew --gui+ to obtain the Gradle GUI
+* or invoke +./gradlew gwtDevMode+ to directly launch the GWT Dev Mode
+
+
 
 Credits
 -------

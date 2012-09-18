@@ -2,7 +2,5 @@
 /war
 /gwt-unitCache
 /bin
-/.gradle
-/build
 /deploy
-/.gwt
+/gradle-app.setting
