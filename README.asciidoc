@@ -4,7 +4,7 @@ It uses Gradle as a build automation tool integrated with the IDE. Hence if you 
 install the great Gradle Eclipse tooling integration. You can still use only Gradle using its GUI or from command line.
 
 How To
--------
+------
 There are two alternative ways to use this project: from IDE or from CLI.
 
 Eclipse/STS
