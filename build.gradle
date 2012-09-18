@@ -18,9 +18,10 @@ dependencies {
 //	compile 'com.google.gwt:gwt-user:2.2.0'
 //	gwtCompilerTools 'com.google.gwt:gwt-dev:2.2.0'
 	
-//	compile 'com.smartgwt:smartgwt:3.0'
-//	compile 'com.smartgwt:smartgwt-skins:3.0'
+	compile 'com.smartgwt:smartgwt:3.0'
+	compile 'com.smartgwt:smartgwt-skins:3.0'
 	compile 'com.google.gwt:gwt-user:2.4.0'
+	compile 'com.google.gwt:gwt-dev:2.4.0'
 	
 	gwtCompilerTools 'com.google.gwt:gwt-dev:2.4.0'
 }
