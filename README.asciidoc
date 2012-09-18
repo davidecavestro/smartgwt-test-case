@@ -1,4 +1,4 @@
-An Gradle-Eclipse skeleton project aiming to speed up the production of SmartGWT reproducible test cases.
+A Gradle-Eclipse skeleton project aiming to speed up the production of SmartGWT reproducible test cases.
 
 It uses Gradle as a build automation tool integrated with the IDE. Hence if you want to use the IDE you need to 
 install the great Gradle Eclipse tooling integration. You can still use only Gradle using its GUI or from command line.
