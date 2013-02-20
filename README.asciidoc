@@ -1,3 +1,6 @@
+smartgwt-test-case image:https://buildhive.cloudbees.com/job/davidecavestro/job/smartgwt-test-case/badge/icon["Build Status", link="https://buildhive.cloudbees.com/job/davidecavestro/job/smartgwt-test-case/"]
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 A Gradle-Eclipse skeleton project aiming to speed up the production of SmartGWT reproducible test cases.
 
 It uses Gradle as a build automation tool integrated with the IDE. Hence if you want to use the IDE you need to 
